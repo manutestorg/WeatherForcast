@@ -1,3 +1,4 @@
+
 # Weather Forecasting Rest API version 1.3.0
 
 ## Getting started
