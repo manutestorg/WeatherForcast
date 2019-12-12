@@ -25,6 +25,7 @@ Run the jar file using below command
 
 ## Access API
 http://localhost:9090/data/{cityname}
+<br/>
 e.g. http://localhost:9090/data/berlin
 
 response Example: 
